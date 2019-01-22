@@ -13,5 +13,8 @@
 ## youtube-mirror endpoints to test 
 
 - localhost:8000/api/v1/youtube/list to get videos in egypt
-- localhost:8000/api/v1/youtube/search to get videos in egypt
+- localhost:8000/api/v1/youtube/search to search videos in egypt
 
+-----------------------------------------------------------
+
+you can replace eg with any country locale id
